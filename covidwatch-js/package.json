@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/tyleryasaka/TrackCOVID#readme",
   "devDependencies": {
-    "@babel/core": "^7.0.0",
+    "@babel/core": "^7.20.7",
     "@babel/plugin-transform-runtime": "^7.9.0"
   },
   "dependencies": {
